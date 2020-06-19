@@ -1,37 +1,21 @@
 ##  GUIA DE INSTALACION BASICA SL2100
-## PRUEBA
-You can use the [editor on GitHub](https://github.com/soportenexos/RepositorioNec/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+###  Ingresar e iniciar sesión (Usando un  brower)
+**IP  172.16.0.10**
+# **GUIA DE INSTALACION BASICA SL2100**
+## **Ingresar e iniciar sesion** (Usando un browser)
+### Ip 172.16.0.10
+[Manuales](https://drive.google.com/drive/folders/1zdMrxQgAH3iDA1n5g9xs1TcjfX43_epW?usp=sharing "caracteristicas, hardware y programas")
+<!--creando lista desordenada con *-->
+* Usuario: tech
+* Password: 12345678
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## **Programas para configurar la planta**
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/soportenexos/RepositorioNec/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Configurar extensiones:
+* 10-01 configuracion de fecha,hora y zona horaria.
+* 11-01 Establecer la longitud de la extensión
+    * 11-01-01 Establecer el número de la extension
+* 15-01 Agregar nombre a las extensiones
+* 21-04 Restricciones de las extensiones (Revisar tabla de permisos en 21-05)
+* 21-05 Restringir de acuerdo a los modos(revisar las restricciones de cada modo en 21-06)
+* 21-06 Se definen las restricciones de los modos. (1,2,3,4,5) Para las restringir llamadas internacionales anteponer 00 o 1470, departamentales con 6 y 7, restringir todo con el simbolo de @
