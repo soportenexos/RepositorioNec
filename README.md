@@ -1,9 +1,7 @@
 ##  GUIA DE INSTALACION BASICA SL2100
 ###  Ingresar e iniciar sesión (Usando un  brower)
 **IP  172.16.0.10**
-# **GUIA DE INSTALACION BASICA SL2100**
-## **Ingresar e iniciar sesion** (Usando un browser)
-### Ip 172.16.0.10
+
 [Manuales](https://drive.google.com/drive/folders/1zdMrxQgAH3iDA1n5g9xs1TcjfX43_epW?usp=sharing "caracteristicas, hardware y programas")
 <!--creando lista desordenada con *-->
 * Usuario: tech
