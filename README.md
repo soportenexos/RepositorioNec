@@ -17,3 +17,22 @@
 * 21-04 Restricciones de las extensiones (Revisar tabla de permisos en 21-05)
 * 21-05 Restringir de acuerdo a los modos(revisar las restricciones de cada modo en 21-06)
 * 21-06 Se definen las restricciones de los modos. (1,2,3,4,5) Para las restringir llamadas internacionales anteponer 00 o 1470, departamentales con 6 y 7, restringir todo con el simbolo de @
+
+### Lineas:
+**Grupos**
+
+**Entrantes**
+
+**Salients**
+
+**Restricciones**
+
+### Sistema:
+**Clase de servicio**
+
+**Horarios**
+
+**Funciones**
+
+**Otros**
+
